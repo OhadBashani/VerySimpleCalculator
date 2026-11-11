@@ -1,0 +1,11 @@
+## Visual Studio / .NET build outputs
+bin/
+obj/
+.vs/
+*.user
+*.suo
+*.userossc
+*.sln.docstates
+
+## VS Code
+.vscode/
